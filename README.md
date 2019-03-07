@@ -1,2 +1,3 @@
 # shift-by-n
-iterates a string's characters 25 times, through each ASCII character, and shows you the result.
+Caesar cipher evaluator.
+Usage: run it and type in a ciphered word. it'll print a list of all possible plaintexts up to the 25th shift.
